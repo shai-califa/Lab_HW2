@@ -1,0 +1,20 @@
+name: hw2_env_new2
+dependencies:
+  - python=3.8
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+    - numpy==1.18.3
+    - pandas==1.0.3
+    - matplotlib==3.2.1
+    - sklearn
+    - argparse==1.4.0
+    - xgboost==1.4.1
+    - seaborn==0.11.1
+    - jupyter
+    - opencv-python==4.5.2.54
+    - Pillow==8.3.0
+
+
+
